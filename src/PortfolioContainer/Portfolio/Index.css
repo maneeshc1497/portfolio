@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&family=Roboto:wght@300&display=swap');
+.portfolio h2{
+    
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    /* color: #3b434a; */
+    color:#000414 ;
+    position: relative;
+    z-index: 2;
+}
+.portfolio{
+    padding: 30px;
+}
+.protfolio__project{
+    padding: 20px;
+    display: inline-block;
+}
+.protfolio__projects{
+    text-align: center;
+}
