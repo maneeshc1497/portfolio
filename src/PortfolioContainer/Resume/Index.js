@@ -1,6 +1,6 @@
 import React from 'react'
 import './Index.css'
-import photo from '../Images/J.pdf'
+import photo from '../Images/Maneesh_C.pdf'
 function Index() {
   
     return (
@@ -8,10 +8,10 @@ function Index() {
             <h2>MY RESUME</h2>
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Maneesh Chandran</h4>
-              <p>Passionate Software Developer with 2+ Years of professional experience building web applications</p>
+              <p>Creative web developer with 2+ Years of professional experience in developing and optimizing interactive and user friendly websites.</p>
               
             </div>
 
@@ -33,15 +33,14 @@ function Index() {
               <h4>Programmer Analyst</h4>
               <h5>2019 - Present</h5>
               <p style={{textAlign:'center'}}>Cognizant Technology Solutions, Coimbatore, Tamil Nadu </p>
-              <p> Cognizant is a Fortune 500 company in the US. As a Programmer Analyst my responsibilities include:</p>
+              <p> I started at Cognizant in 2019 as a new graduate hire, in the years following I worked in major deliveries and CR management projects in Manufacturing industry.</p>
               <ul>
-                <li>Built a Safety stock and Lot size optimization application using .net framework, which automates the calculation process of safety stock and lot size and provides optimal value.</li>
-                <li>Introduced graphical representation of data in application which improved user experience. </li>
-                <li>Using SSIS and SQL job agent, automated the value updation done by users which reduced user efforts to a large extent.</li>
-                <li>Involved in Design, Development and Testing of Web Applications using ASP.NET, XML, Ajax, SQL Server, C# and .NET Framework.</li>                
-                <li>Responsible for all project life cycle phases, from specifications and coding through deployment, testing,debugging, documentation, and maintenance.</li>
-                <li>Designing back-end database structures for web applications or websites using SQL as well as testing their compatibility with different web browsers and newersoftware or OS versions.</li>                
-                <li>Provided many innovative ideas and have participated in Hackathons.</li>
+                <li>Built a Safety stock and Lot size optimization application using .Net framework, which automates the calculation process to find the optimal value.</li>
+                <li>Introduced the graphical representation of data in application which improved user experience. </li>
+                <li>Performed requirements analysis, design, development and test management for quarterly releases.</li>
+                <li>Automated many functionalities involved in website using SSIS and SQL job agent.</li>                
+                <li>Managed a team of 2 web developers; trained and educated other web developers.</li>
+                <li>Participated in weekly meetings with executives, supported brainstorming and idea generation.</li>                                
               </ul>
               <p></p>
             </div>            
